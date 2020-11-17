@@ -1,1 +1,2 @@
-#Git hub refresher session
+#Github refresher session
+Learning git commands
